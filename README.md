@@ -28,6 +28,6 @@ My expertise in Python, particularly with frameworks such as Django, Flask, and 
 
 - :hammer_and_wrench: Demonstrated strong analytical and problem-solving skills and the ability to follow through with projects from inception to completion
 
-- :see_no_evil: Sometimes solved problems on LeetCode and Codility.
+- :see_no_evil: Sometimes solved problems on <a href='https://leetcode.com/u/gareev/'>LeetCode</a>.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Emile_Gareev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emile-gareev/)
