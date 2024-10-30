@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/emile-gareev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:jeincorp@yandex.com">
+  <a href="mailto:gareev.emile@gmail.com">
     <img src="https://img.shields.io/badge/Mail-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="http://t.me/emile16">
@@ -22,9 +22,9 @@
 
 ---
 ### :man_technologist: About Me :
-Qualified Python Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over six years of experience in backend development. 
+With over 7 years of robust experience in <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Python" width="20" height="20"/> Python backend development and team leadership <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> my tenure has focused on spearheading the deployment of cutting-edge solutions in the FinTech and Retail spheres. Under my guidance, teams have successfully integrated essential business logic into our products and optimized development and deployment processes, including CI/CD pipelines, enhancing operational efficiency.
 
-- :monocle_face: Experienced in SaaS and OOTB backend processing and data transfer, with knowledgeable in sync and async <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Python" width="20" height="20"/> Python frameworks.
+My expertise in Python, particularly with frameworks such as Django, Flask, and FastAPI, complements my proficiency in Agile methodologies, which I leverage to deliver scalable and maintainable systems. I have achieved seamless third-party service integrations and Kubernetes deployments collaboratively with colleagues, demonstrating a commitment to delivering high-quality software solutions that drive the financial and retail sectors forward.
 
 - :hammer_and_wrench: Demonstrated strong analytical and problem-solving skills and the ability to follow through with projects from inception to completion
 
